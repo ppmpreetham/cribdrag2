@@ -1,4 +1,4 @@
-:warning: *NOTE: This tool is no longer under active maintenance.*
+*NOTE: This is an updated version of cribdrag for python3.*
 
 
 cribdrag
