@@ -30,5 +30,5 @@ s2 = args.data2.decode('hex')
 
 s3 = sxor(s1, s2)
 
-print s3.encode('hex')
+print(s3.encode('hex'))
 
